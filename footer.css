@@ -1,0 +1,33 @@
+footer.css
+/* footer */
+
+footer {
+    background-color: #009688;
+    color: #0e0202;
+    text-align: center;
+    padding: 10px;
+    position: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.yhteystiedot {
+    font-size: 10px;
+    text-align: left;
+    line-height: 0;
+
+}
+.copyright {
+    font-size: 10px;
+    color: #040215;
+}
